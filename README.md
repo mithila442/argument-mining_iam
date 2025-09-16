@@ -44,17 +44,18 @@ By leveraging advanced transformer models such as RoBERTa and Swin Transformers,
 
 ---
 
-## Directory Structure
-├── baseline.ipynb # Baseline model experiments
-├── cepe_project.ipynb # Full pipeline for CEPE
-├── preprocess_cepe.py # Preprocessing scripts for CEPE data
-├── project_cesc2.ipynb # Full pipeline for CESC
-├── swinCESC.py # Swin Transformer CESC model code
-├── swinCEPE.py # Swin Transformer CEPE model code
-├── train_roberta_cesc.py # Train RoBERTa model for CESC
-├── train_roberta_cepe.py # Train RoBERTa model for CEPE
-├── train_transformer_cesc.py # Train baseline Transformer for CESC
-├── train_transformer_cepe.py # Train baseline Transformer for CEPE
+# Directory Structure
+
+├── baseline.ipynb              # Baseline model experiments  
+├── cepe_project.ipynb          # Full pipeline for CEPE  
+├── preprocess_cepe.py          # Preprocessing scripts for CEPE data  
+├── project_cesc2.ipynb         # Full pipeline for CESC  
+├── swinCESC.py                 # Swin Transformer CESC model code  
+├── swinCEPE.py                 # Swin Transformer CEPE model code  
+├── train_roberta_cesc.py       # Train RoBERTa model for CESC  
+├── train_roberta_cepe.py       # Train RoBERTa model for CEPE  
+├── train_transformer_cesc.py   # Train baseline Transformer for CESC  
+└── train_transformer_cepe.py   # Train baseline Transformer for CEPE  
 
 
 ---
